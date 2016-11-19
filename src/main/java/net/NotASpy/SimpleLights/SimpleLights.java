@@ -24,20 +24,14 @@ public class SimpleLights {
     @Mod.Instance
     public static SimpleLights instance;
 
-    public static org.apache.logging.log4j.Logger logger;
-
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        logger = event.getModLog();
         proxy.preInit(event);
-        this
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent e) {
         proxy.init(e);
-    	GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.solarGlow, 1), 
-    			CompatItem.redstone, CompatBlock.glass, CompatItem.glowstone_dust);
     }
 
     @Mod.EventHandler
