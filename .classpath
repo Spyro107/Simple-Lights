@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/kingm/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.2.2097/snapshot/20160518/forgeSrc-1.10.2-12.18.2.2097.jar" sourcepath="C:/Users/kingm/.gradle/caches/minecraft/net/minecraftforge/forge/1.10.2-12.18.2.2097/snapshot/20160518/forgeSrc-1.10.2-12.18.2.2097-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BetterWithMods-master"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Forge"/>
+	<classpathentry kind="lib" path="C:/Users/kingm/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/1dd66e68cccd907880229f9e2de1314bd13ff785/log4j-api-2.0-beta9.jar" sourcepath="C:/Users/kingm/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/c6682b8a47ddd9f29108838aed0dc8e0ffdedf68/log4j-api-2.0-beta9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kingm/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/678861ba1b2e1fccb594bb0ca03114bb05da9695/log4j-core-2.0-beta9.jar" sourcepath="C:/Users/kingm/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/c7da50fd52d6ee6991a0e16e2df1431f7656a7f4/log4j-core-2.0-beta9-sources.jar"/>
+	<classpathentry kind="src" path="/compatlayer-1.10"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/BetterWithMods-master/.gradle/minecraft/forgeSrc-1.10.2-12.18.2.2121-PROJECT(BetterWithMods-master).jar" sourcepath="E:/Eclipse Workspace/BetterWithMods-master/.gradle/minecraft/forgeSrc-1.10.2-12.18.2.2121-PROJECT(BetterWithMods-master)-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

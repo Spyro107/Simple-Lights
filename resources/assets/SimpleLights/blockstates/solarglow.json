@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "simplelights:solarglow"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
